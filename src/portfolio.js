@@ -5,81 +5,48 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Portfolio de Cheikh Mbacke",
+  title: "Cheikh Mbacke - Portfolio",
   description:
     "Développeur web full stack en France, spécialisé en JavaScript. Expert en création d'applications web réactives et performantes, développement front-end et back-end, intégration API et maintenance de sites. Solutions personnalisées pour tous vos projets numériques.",
   og: {
-    title: "Portfolio de Cheikh Mbacke",
+    title: "Cheikh Mbacke - Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://portfolio-om44.onrender.com",
   },
 };
 
 //Home Page
 const greeting = {
-  title: "Ashutosh Hathidara",
-  logo_name: "AshutoshHathidara",
-  nickname: "layman_brother",
+  title: "Cheikh MBACKE",
+  logo_name: "CheikhMbacke",
+  nickname: "Cheikhouna",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Développeur web full stack en France, spécialisé en JavaScript. Expert en création d'applications web réactives et performantes, développement front-end et back-end, intégration API et maintenance de sites. Solutions personnalisées pour tous vos projets numériques.",
   resumeLink:
-    "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
-  githubProfile: "https://github.com/ashutosh1919",
+    "https://drive.google.com/file/d/1Lm9vjhDWFb38Mo0O0Jte7IUQLRqV638S/view?usp=sharing",
+  portfolio_repository: "https://github.com/cheikh-mbacke/portfolio",
+  githubProfile: "https://github.com/cheikh-mbacke",
 };
 
 const socialMediaLinks = [
-  /* Your Social Media Link */
-  // github: "https://github.com/ashutosh1919",
-  // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
-  // gmail: "ashutoshhathidara98@gmail.com",
-  // gitlab: "https://gitlab.com/ashutoshhathidara98",
-  // facebook: "https://www.facebook.com/laymanbrother.19/",
-  // twitter: "https://twitter.com/ashutosh_1919",
-  // instagram: "https://www.instagram.com/layman_brother/"
-
   {
     name: "Github",
-    link: "https://github.com/ashutosh1919",
+    link: "https://github.com/cheikh-mbacke",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/ashutosh1919/",
+    link: "www.linkedin.com/in/mbcheikh",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
   {
-    name: "YouTube",
-    link: "https://youtube.com/c/DevSense19",
-    fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
-    backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
-  },
-  {
     name: "Gmail",
-    link: "mailto:ashutoshhathidara98@gmail.com",
+    link: "mailto:mbackecheikhouna7@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
-  },
-  {
-    name: "X-Twitter",
-    link: "https://twitter.com/ashutosh_1919",
-    fontAwesomeIcon: "fa-x-twitter", // Reference https://fontawesome.com/icons/x-twitter?f=brands&s=solid
-    backgroundColor: "#000000", // Reference https://simpleicons.org/?q=x
-  },
-  {
-    name: "Facebook",
-    link: "https://www.facebook.com/laymanbrother.19/",
-    fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
-    backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
-  },
-  {
-    name: "Instagram",
-    link: "https://www.instagram.com/layman_brother/",
-    fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
-    backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
-  },
+  }
 ];
 
 const skills = {
@@ -88,9 +55,9 @@ const skills = {
       title: "Data Science & AI",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+        "⚡ Développement de modèles prêts pour la production, hautement évolutifs pour divers cas d'usage en apprentissage profond et statistique",
+        "⚡ Expérience de travail sur des projets de vision par ordinateur et de traitement du langage naturel (NLP)",
+        "⚡ Modélisation quantitative complexe pour la prévision dynamique et l'analyse de séries temporelles",
       ],
       softwareSkills: [
         {
@@ -133,9 +100,9 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Développement de l'interface de sites web réactifs",
+        "⚡ Développement d'applications mobiles utilisant Flutter, React Native et création d'applications Android individuelles avec Kotlin",
+        "⚡ Création de back-end d'applications avec Node, Express et Flask",
       ],
       softwareSkills: [
         {
@@ -209,16 +176,83 @@ const skills = {
             color: "#02569B",
           },
         },
+        {
+          skillName: "Bootstrap",
+          fontAwesomeClassname: "simple-icons:bootstrap",
+          style: {
+            color: "#563d7c",
+          },
+        },
+        {
+          skillName: "Tailwind CSS",
+          imageSrc: "tailwindcss_logo.png",
+        },
+        {
+          skillName: "FoundationCSS",
+          imageSrc: "foundation_logo.png",
+        },
+        {
+          skillName: "Materialize",
+          imageSrc: "materialize_logo.png",
+        },
+        {
+          skillName: "Vue.js",
+          imageSrc: "vuejs_logo.png",
+        },
+        {
+          skillName: "Angular",
+          fontAwesomeClassname: "simple-icons:angular",
+          style: {
+            color: "#c3002f",
+          },
+        },
+        {
+          skillName: "Express.js",
+          fontAwesomeClassname: "simple-icons:express",
+          style: {
+            color: "#010101",
+          },
+        },
+        {
+          skillName: "Next.js",
+          imageSrc: "nextjs_logo.png",
+        },
+        {
+          skillName: "NestJS",
+          imageSrc: "nestjs_logo.svg",
+        },
+        {
+          skillName: "jQuery",
+          fontAwesomeClassname: "simple-icons:jquery",
+          style: {
+            color: "#0769ad",
+          },
+        },
+        {
+          skillName: "React Native",
+          imageSrc: "reactnative_logo.svg",
+        },
+        {
+          skillName: "Visual Studio Code",
+          imageSrc: "visualStudioCode_logo.webp",
+        },
+        {
+          skillName: "IntelliJ IDEA",
+          imageSrc: "intelliJIDEA_logo.png",
+        },
+        {
+          skillName: "Eclipse",
+          imageSrc: "eclipse_logo.svg",
+        },
       ],
     },
     {
       title: "Cloud Infra-Architecture",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Experience working on multiple cloud platforms",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+        "⚡ Expérience de travail sur plusieurs plateformes d'hébergement",
+        "⚡ Hébergement et maintenance de sites web sur des instances de machines virtuelles avec intégration de bases de données",
+        "⚡ Configuration de travaux de streaming de la base de données vers le serveur ou inversement sur GCP et AWS",
       ],
       softwareSkills: [
         {
@@ -277,24 +311,67 @@ const skills = {
             color: "#326CE5",
           },
         },
+        {
+          skillName: "MySQL",
+          fontAwesomeClassname: "simple-icons:mysql",
+          style: {
+            color: "#00758f",
+          },
+        },
+        {
+          skillName: "Vagran",
+          imageSrc: "vagrant_logo.png",
+        },
+        {
+          skillName: "Github",
+          fontAwesomeClassname: "simple-icons:github",
+          style: {
+            color: "#2b3137",
+          },
+        },
+        {
+          skillName: "Git",
+          fontAwesomeClassname: "simple-icons:git",
+          style: {
+            color: "#f34f29",
+          },
+        },
+        {
+          skillName: "JIRA",
+          fontAwesomeClassname: "simple-icons:jira",
+          style: {
+            color: "#0052CC",
+          },
+        },
+        {
+          skillName: "Confluence",
+          fontAwesomeClassname: "simple-icons:confluence",
+          style: {
+            color: "#2185FF",
+          },
+        },
+        {
+          skillName: "GitLab",
+          imageSrc: "gitLab_logo.png",
+        },
+        {
+          skillName: "Ansible",
+          fontAwesomeClassname: "simple-icons:ansible",
+          style: {
+            color: "#000000",
+          },
+        },
       ],
     },
     {
       title: "UI/UX Design",
       fileName: "DesignImg",
       skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
-        "⚡ Creating the flow of application functionalities to optimize user experience",
+        "⚡ Conception d'interfaces utilisateur attrayantes pour applications mobiles et web",
+        "⚡ Personnalisation de designs de logos et création de logos à partir de zéro",
+        "⚡ Création du flux des fonctionnalités des applications pour optimiser l'expérience utilisateur",
       ],
       softwareSkills: [
-        {
-          skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:adobexd",
-          style: {
-            color: "#FF2BC2",
-          },
-        },
         {
           skillName: "Figma",
           fontAwesomeClassname: "simple-icons:figma",
@@ -303,18 +380,8 @@ const skills = {
           },
         },
         {
-          skillName: "Adobe Illustrator",
-          fontAwesomeClassname: "simple-icons:adobeillustrator",
-          style: {
-            color: "#FF7C00",
-          },
-        },
-        {
-          skillName: "Inkscape",
-          fontAwesomeClassname: "simple-icons:inkscape",
-          style: {
-            color: "#000000",
-          },
+          skillName: "Canvas",
+          imageSrc: "canva_logo.png",
         },
       ],
     },
