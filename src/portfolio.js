@@ -1,5 +1,3 @@
-/* Change this file to get your personal Porfolio */
-
 // Website related settings
 const settings = {
   isSplash: true, // Change this to false if you don't want Splash screen.
@@ -7,11 +5,11 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Cheikh's Portfolio",
+  title: "Portfolio de Cheikh Mbacke",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Développeur web full stack en France, spécialisé en JavaScript. Expert en création d'applications web réactives et performantes, développement front-end et back-end, intégration API et maintenance de sites. Solutions personnalisées pour tous vos projets numériques.",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "Portfolio de Cheikh Mbacke",
     type: "website",
     url: "http://ashutoshhathidara.com/",
   },
