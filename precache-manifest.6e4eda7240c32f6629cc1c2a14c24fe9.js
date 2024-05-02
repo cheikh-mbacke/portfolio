@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7493ad94a55238fb8a0d00fe93d0bb0f",
+    "revision": "9a00b7cf699bab7fadbf13a38be6f3b5",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "d847a98cc6ffc5300d9f",
+    "revision": "a70689e56dd314567082",
     "url": "/portfolio/static/css/main.3e25a5cf.chunk.css"
   },
   {
-    "revision": "59b99e5c7ade56f32ecf",
-    "url": "/portfolio/static/js/2.1fae67f6.chunk.js"
+    "revision": "48a5823afbfafcde9c27",
+    "url": "/portfolio/static/js/2.5ef509b2.chunk.js"
   },
   {
-    "revision": "d847a98cc6ffc5300d9f",
-    "url": "/portfolio/static/js/main.4466c227.chunk.js"
+    "revision": "a70689e56dd314567082",
+    "url": "/portfolio/static/js/main.01b81ead.chunk.js"
   },
   {
     "revision": "b57a521fea4c6043ac50",
@@ -212,12 +212,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/legato_logo.c597fbde.png"
   },
   {
+    "revision": "2b0f431d401c52cad1ceb306b82a0e3d",
+    "url": "/portfolio/static/media/logo_airbus.2b0f431d.png"
+  },
+  {
     "revision": "05ba7fd715608320ed17510faca49446",
     "url": "/portfolio/static/media/logo_openClassrooms.05ba7fd7.webp"
   },
   {
     "revision": "7fbf9ecfd6975f623fd02d50eb5759b5",
     "url": "/portfolio/static/media/logo_openclassrooms_certif.7fbf9ecf.png"
+  },
+  {
+    "revision": "b02534ce02d0114401fe2c3500f03f76",
+    "url": "/portfolio/static/media/logo_rte.b02534ce.png"
+  },
+  {
+    "revision": "2a24fcd7c23a6c92f2d44864679339fc",
+    "url": "/portfolio/static/media/logo_sogeclair.2a24fcd7.png"
   },
   {
     "revision": "a4972d1623b30603290c96cf2d98b5ea",
