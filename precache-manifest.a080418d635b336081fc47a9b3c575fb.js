@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d003831f13705c7c7000298d7e2479d1",
+    "revision": "4a8d1daf7d224b33ed221977eb109820",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "9eaf9081f280f91ecef3",
+    "revision": "d21e7ba741335489c92d",
     "url": "/portfolio/static/css/main.3e25a5cf.chunk.css"
   },
   {
-    "revision": "699cb8f89ecd7bccacd9",
-    "url": "/portfolio/static/js/2.b89f938c.chunk.js"
+    "revision": "bd9399b8bc14f4a653fd",
+    "url": "/portfolio/static/js/2.d2edf2e3.chunk.js"
   },
   {
-    "revision": "9eaf9081f280f91ecef3",
-    "url": "/portfolio/static/js/main.e5e689fd.chunk.js"
+    "revision": "d21e7ba741335489c92d",
+    "url": "/portfolio/static/js/main.8fe918cf.chunk.js"
   },
   {
     "revision": "e73ac9e279836ecdfedf",
@@ -210,6 +210,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c597fbded5de799dfb9abc3fc4f1c26f",
     "url": "/portfolio/static/media/legato_logo.c597fbde.png"
+  },
+  {
+    "revision": "1bbfc08bd0b1d3e5a99a6de7da0aea26",
+    "url": "/portfolio/static/media/logo_acadomia.1bbfc08b.png"
   },
   {
     "revision": "2b0f431d401c52cad1ceb306b82a0e3d",
