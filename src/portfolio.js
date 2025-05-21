@@ -46,7 +46,7 @@ const socialMediaLinks = [
     link: "mailto:mbackecheikhouna7@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
-  }
+  },
 ];
 
 const skills = {
@@ -392,6 +392,21 @@ const skills = {
 const degrees = {
   degrees: [
     {
+      title: "Master II : Architecte Logiciel et Développement d’Applications",
+      subtitle:
+        "Epitech – École de l’Innovation et de l’Expertise Informatique",
+      logo_path: "logo_epitech.png",
+      alt_name: "Epitech",
+      duration: "2023 - 2025",
+      descriptions: [
+        "⚡ J'ai étudié les fondamentaux de l’apprentissage statistique et leur application en intelligence artificielle.",
+        "⚡ J'ai appris à concevoir et mettre en œuvre des algorithmes de machine learning pour la classification d’images, le traitement du langage naturel (NLP) et la reconnaissance vocale.",
+        "⚡ Je me suis formé à l’apprentissage par renforcement, notamment avec le Deep Q-Learning, et à l’utilisation de modèles avancés comme BERT et les Transformers.",
+        "⚡ J'ai aussi appris à exploiter le Transfer Learning et le fine-tuning pour adapter des modèles pré-entraînés à mes propres jeux de données.",
+      ],
+      website_link: "https://www.epitech.eu/fr/formations/msc-pro-epitech/",
+    },
+    {
       title:
         "Licence Professionnelle Métiers de l'Informatique Applications Web",
       subtitle: "Université de Bourgogne : UFR Sciences et Techniques (Dijon)",
@@ -452,16 +467,16 @@ const certifications = {
         "https://drive.google.com/file/d/1nwOoidgNK4QW_jwwPWIvqtO_sRrMR2uI/view?usp=sharing",
       alt_name: "Openclassrooms",
       color_code: "#fff",
-    }
+    },
   ],
 };
 
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Alternance, Stage et Freelance",
+  subtitle: "Alternance, Stage, Freelance, Mentorat et Enseignement",
   description:
-    "Au cours de ma formation en tant qu'apprenti développeur web, j'ai acquis une expérience professionnelle significative avec Airbus. J'ai ensuite réalisé un stage enrichissant chez RTE, une entreprise de l'Etat français, avant de travailler comme développeur freelance pour Openclassrooms, une école en ligne.",
+    "Mon parcours m’a permis de développer des compétences solides en développement web à travers des expériences diversifiées : alternance chez Sogeclair Aerospace/Airbus pour automatiser les commandes de peinture d’avions & et développement d’un App Store interne, stage chez RTE avec une interface cartographique des réseaux électriques. En parallèle, j’ai accompagné de nombreux étudiants en tant que mentor et évaluateur chez OpenClassrooms. J’interviens également comme enseignant en mathématiques pour Acadomia et je gère l’infrastructure d’un site web en microservices (horoscopya.com) sur VPS.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -469,25 +484,36 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "Mentor/Formateur en Développement web",
-          company: "Openclassrooms",
+          title: "Mentor & Évaluateur en Développement Web",
+          company: "OpenClassrooms",
           company_url: "https://openclassrooms.com/fr/",
           logo_path: "logo_openClassrooms.webp",
-          duration: "Mars 2021 - À ce jour",
-          location: "Paris, France",
+          duration: "Mars 2022 - À ce jour",
+          location: "Freelance – France",
           description:
-            "Former des étudiants en formation en Développement web.",
+            "Mentorat : accompagnement des étudiants, aide technique et méthodologique, relecture de code.",
           color: "#000000",
+        },
+        {
+          title: "Enseignant en Mathématiques",
+          company: "Acadomia",
+          company_url: "https://www.acadomia.fr/",
+          logo_path: "logo_acadomia.png",
+          duration: "Janvier 2025 - À ce jour",
+          location: "France",
+          description:
+            "Cours particuliers de mathématiques en collège : préparation des séances, suivi individualisé, adaptation pédagogique et reporting régulier aux familles.",
+          color: "#0055aa",
         },
         {
           title: "Développeur Full Stack",
           company: "Réseau de transport d'électricité (RTE)",
           company_url: "https://www.rte-france.com/",
           logo_path: "logo_rte.png",
-          duration: "Avril 2023 - Septembre 2023",
+          duration: "Mars 2023 - Septembre 2023",
           location: "Nantes, France",
           description:
-            "Développement d'une application permettant la : Visualisation cartographique des réseaux électriques, Gestion des projets d'insertion, Intégration des données prévisionnelles, Gestion des utilisateurs et des rôles.",
+            "Développement d’une interface web Angular pour la visualisation cartographique des réseaux électriques et création d'une API REST en Python avec Django pour la gestion des données réseau.",
           color: "#0879bf",
         },
         {
@@ -499,18 +525,18 @@ const experience = {
           duration: "Juillet 2021 - Décembre 2021",
           location: "Blagnac, France",
           description:
-            "Développement d'une application web complexe pour la gestion des commandes de peinture des avions. Mes tâches consistaient à réaliser : Un formulaire de commande en HTML, CSS, Bootstrap, Javascript et AJAX; Un système de recherche; Un process d'export et d'import d'un fichier .xsl à envoyer aux fournisseurs de peintures; Un système de notification; Des comptes utilisateurs pour différents services.",
+            "Développement d'une application web pour la gestion des commandes de peinture d'avions : formulaire de commande, système de recherche, import/export de fichiers Excel, système de notifications, gestion des comptes utilisateurs.",
           color: "#9b1578",
         },
         {
           title: "Développeur Front-end",
-          company: "Sogeclair Aerospace SAS",
+          company: "Sogeclair Aerospace",
           company_url: "https://sogeclair.com/",
           logo_path: "logo_sogeclair.png",
           duration: "Mars 2021 - Juin 2021",
-          location: "Blagnac, France",
+          location: "Toulouse, France",
           description:
-            "Développement d'une appstore pour recencer les applications de l'entreprise. Mon rôle fut de mettre en place l'interface utilisateur de cette application avec ReactJS",
+            "Développement d'une appstore interne en ReactJS pour recenser les applications de l'entreprise.",
           color: "#fc1f20",
         },
       ],
@@ -522,7 +548,7 @@ const experience = {
 const projectsHeader = {
   title: "Mes Projets",
   description:
-    "Mes projets utilisent une grande variété d’outils technologiques les plus récents.",
+    "Au fil de mes études et de mes expériences, j’ai eu l’occasion de développer toutes sortes de projets, aussi bien personnels que professionnels. Que ce soit des applications web, des architectures en microservices, des outils d’automatisation ou encore des projets intégrant de l’intelligence artificielle, chacun d’eux m’a permis de progresser et de mettre en pratique ce que j’apprends. J’utilise des technologies modernes comme React, Node.js, Docker, Django ou TensorFlow, en suivant des méthodologies solides comme l’agilité ou l’intégration continue. Ces projets reflètent ma curiosité, ma rigueur et ma capacité à m’adapter à différents contextes techniques.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -533,8 +559,7 @@ const publicationsHeader = {
 };
 
 const publications = {
-  data: [
-  ],
+  data: [],
 };
 
 // Contact Page

@@ -2,54 +2,10 @@
   "data": [
     {
       "id": "R_kgDOJWL0-g",
-      "name": "Application Bancaire",
-      "createdAt": "2023-04-13T04:18:19Z",
-      "url": "https://github.com/cheikh-mbacke/implementez_le_front_end_d_une_application_bancaire_avec_React_client",
-      "description": "Intégrer le front-end avec le back-end via des appels API.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "React",
-          "iconifyClass": "logos-react"
-        },
-        {
-          "name": "Redux",
-          "iconifyClass": "logos-redux"
-        },
-        {
-          "name": "Node.js",
-          "iconifyClass": "logos-nodejs"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOG_vYHA",
-      "name": "Site d'une agence de location immobilière",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/cheikh-mbacke/creez_une_application_web_de_location_immobiliere_avec_react",
-      "description": "Implémentation du front-end d'une application web utilisant React et React Router pour offrir une expérience utilisateur moderne et réactive.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "React-Router",
-          "iconifyClass": "logos-react-router"
-        },
-                {
-          "name": "React",
-          "iconifyClass": "logos-react"
-        },
-        {
-          "name": "Redux",
-          "iconifyClass": "logos-redux"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "Site de présentation des menus de restaurant",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/cheikh-mbacke/ameliorez_l_interface_d_un_site_mobile_avec_des_animations_css",
-      "description": "Intégrer une maquette en approche mobile-first.",
+      "name": "OhMyFood",
+      "createdAt": "2024-01-22T04:18:19Z",
+      "url": "https://github.com/cheikh-mbacke/Am-liorez-l-interface-d-un-site-mobile-avec-des-animations-CSS.git",
+      "description": "Intégration d'une maquette en mobile-first & Animations CSS",
       "isFork": false,
       "languages": [
         {
@@ -63,6 +19,260 @@
         {
           "name": "Sass",
           "iconifyClass": "logos-sass"
+        },
+        {
+          "name": "Figma",
+          "iconifyClass": "logos-figma"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "Kasa",
+      "createdAt": "2022-10-14T20:41:33Z",
+      "url": "https://github.com/cheikh-mbacke/Cr-ez-une-application-web-de-location-immobili-re-avec-React.git",
+      "description": "Implémentation du front-end d'une application web utilisant React et React Router pour offrir une expérience utilisateur moderne et réactive.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React-Router",
+          "iconifyClass": "logos-react-router"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Redux",
+          "iconifyClass": "logos-redux"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Piquante",
+      "createdAt": "2021-05-04T16:26:54Z",
+      "url": "https://github.com/cheikh-mbacke/Construisez-une-API-s-curis-e-pour-une-application-d-avis-gastronomiques_back.git",
+      "description": "Implémenter un modèle logique de données conformément à la réglementation & Mettre en œuvre des opérations CRUD de manière sécurisée",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "NodeJS",
+          "iconifyClass": "logos-nodejs"
+        },
+        {
+          "name": "ExpressJS",
+          "iconifyClass": "logos-express"
+        },
+        {
+          "name": "Angular",
+          "iconifyClass": "logos-angular"
+        },
+        {
+          "name": "MongoDB",
+          "iconifyClass": "logos-mongodb"
+        }
+      ]
+    },
+    {
+      "id": "efekfezfahzddkja",
+      "name": "Booki",
+      "createdAt": "2023-10-26T16:26:54Z",
+      "url": "https://github.com/cheikh-mbacke/Cr-ez-la-page-d-accueil-d-une-agence-de-voyage-avec-HTML-CSS.git",
+      "description": "Implémenter une interface responsive avec HTML et CSS & Intégrer du contenu conformément à une maquette avec HTML et CSS",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "Sass",
+          "iconifyClass": "logos-sass"
+        }
+      ]
+    },
+    {
+      "id": "iaikdmX?CSCNq",
+      "name": "Fisheye",
+      "createdAt": "2021-10-24T16:26:54Z",
+      "url": "https://github.com/cheikh-mbacke/Cr-ez-un-site-accessible-pour-une-plateforme-de-photographes.git",
+      "description": "Assurer l'accessibilité d'un site web & Développer une application web modulaire avec des design patterns",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Javascript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "ythegzvcffazf",
+      "name": "Sophie Bluel",
+      "createdAt": "2023-12-28T16:26:54Z",
+      "url": "https://github.com/cheikh-mbacke/Cr-ez-une-page-web-dynamique-avec-JavaScript.git",
+      "description": "Récupérer les données utilisateurs dans le JavaScript via des formulaires & Gérer les événements utilisateurs avec JavaScript",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Javascript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "gzfazdpzdklc",
+      "name": "Landing Page",
+      "createdAt": "2020-07-08T16:26:54Z",
+      "url": "https://github.com/cheikh-mbacke/Cr-ez-une-landing-page-avec-Javascript.git",
+      "description": "Manipuler les éléments du DOM avec JavaScript",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Javascript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "fadkmlsxSHDDBDS",
+      "name": "Billed",
+      "createdAt": "2020-07-08T16:26:54Z",
+      "url": "https://github.com/cheikh-mbacke/D-buggez-et-testez-un-SaaS-RH.git",
+      "description": "Ecrire des tests unitaires, d'intégration avec JavaScript & Rédiger un plan de test end-to-end manuel",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Javascript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Jest",
+          "iconifyClass": "logos-jest"
+        },
+        {
+          "name": "Testing Library",
+          "iconifyClass": "logos-testing-library"
+        },
+        {
+          "name": "Jasmine",
+          "iconifyClass": "logos-jasmine"
+        }
+      ]
+    },
+    {
+      "id": "efqmmlqscqsdqsk",
+      "name": "Les Petits Plats",
+      "createdAt": "2023-03-18T16:26:54Z",
+      "url": "https://github.com/cheikh-mbacke/D-veloppez-un-algorithme-de-recherche-en-JavaScript.git",
+      "description": "Analyser un problème informatique & Développer un algorithme pour résoudre un problème",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Javascript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "sckjnxqxmasgjd",
+      "name": "SportSee",
+      "createdAt": "2023-11-12T16:26:54Z",
+      "url": "https://github.com/cheikh-mbacke/D-veloppez-un-tableau-de-bord-d-analytics-avec-React.git",
+      "description": "Développer des éléments graphiques avancés à l'aide recharts & Assurer la qualité des données d'une application",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "NodeJS",
+          "iconifyClass": "logos-nodejs"
+        }
+      ]
+    },
+    {
+      "id": "saoetnmpsqkqd",
+      "name": "ArgentBank",
+      "createdAt": "2022-5-22T16:26:54Z",
+      "url": "https://github.com/cheikh-mbacke/Impl-mentez-le-front-end-d-une-application-bancaire-avec-React.git",
+      "description": "Implémenter la gestion des données avec Redux, Configurer des routes API pour la communication client / serveur",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Redux",
+          "iconifyClass": "logos-redux"
+        }
+      ]
+    },
+    {
+      "id": "fpkklasmjnvgdh",
+      "name": "Cinéma Ousmane Sembène",
+      "createdAt": "2022-5-22T16:26:54Z",
+      "url": "https://www.cinemamagicland.com",
+      "description": "Un site pour un complexe cinématograpgique",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Redux",
+          "iconifyClass": "logos-redux"
+        },
+        {
+          "name": "NodeJS",
+          "iconifyClass": "logos-nodejs"
+        },
+        {
+          "name": "ExpressJS",
+          "iconifyClass": "logos-express"
+        },
+        {
+          "name": "MongoDB",
+          "iconifyClass": "logos-mongodb"
         }
       ]
     }
